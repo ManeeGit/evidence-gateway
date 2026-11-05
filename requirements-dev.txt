@@ -1,0 +1,4 @@
+# Pinned tooling. Unit tests themselves use the standard library.
+coverage==7.6.12
+ruff==0.9.10
+build==1.2.2.post1

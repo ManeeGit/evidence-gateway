@@ -1,0 +1,2 @@
+# Optional deployment server; the core package has no runtime dependencies.
+waitress==3.0.2
